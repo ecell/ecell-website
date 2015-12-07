@@ -15,17 +15,23 @@ The E-Cell Project is open to anyone who shares the view with us that developmen
 
 The E-Cell Project is made possible through the financial and institutional support of the following institutions.
 
-- FILLME RIKEN image
-- FILLME Keio IAB image
-- FILLME Keio image
+- ![](./rikenlogo.jpg)
+- ![](./iablogo.jpg)
+- ![](./keiologo.jpg)
 
 # What is E-Cell system?
+
+FILLME
 
 # Who is using E-Cell system?
 
 ## Featured publications
 
+FILLME
+
 ## Research using E-Cell system
+
+FILLME
 
 # History
 
