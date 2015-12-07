@@ -1,0 +1,8 @@
+site_name: E-Cell project
+pages:
+- Intro: index.md
+- Download: download.md
+- Models: models.md
+- Documentation: documentation.md
+- Community: community.md
+theme: bootstrap
