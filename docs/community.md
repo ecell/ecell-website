@@ -19,3 +19,14 @@
 ## Past Developers, Directors, and Funding Agencies
 
 - FILLME
+
+# Social media
+
+- github (FILL ICON and LINK)
+- twitter (FILL ICON and LINK)
+- gitter (FILL ICON and LINK)
+
+# Conference
+
+- E-Cell sprint (FILLME)
+- E-Cell workshop (FILLME)
