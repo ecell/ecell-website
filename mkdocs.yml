@@ -1,6 +1,7 @@
 site_name: E-Cell project
 pages:
 - Top: index.md
+- About: about.md
 - Projects: projects.md
 - Models: models.md
 - Documentation: documentation.md
