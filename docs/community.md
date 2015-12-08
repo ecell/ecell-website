@@ -18,7 +18,9 @@
  
 ## Past Developers, Directors, and Funding Agencies
 
-- FILLME
+- Moriyoshi Koizumi
+- Yasuhiro Naito
+- Hitomi Sano
 
 # Social media
 
