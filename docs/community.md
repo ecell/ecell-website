@@ -21,6 +21,7 @@
 - Moriyoshi Koizumi
 - Yasuhiro Naito
 - Hitomi Sano
+- Naohiro Aota
 
 # Social media
 
