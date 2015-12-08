@@ -7,6 +7,5 @@ pages:
 	- 'Downloads': 'projects/downloads.md'
 	- 'Models': 'projects/models.md'
 - Publications: publications.md
-- Documentation: documentation.md
 - Community: community.md
 theme: bootstrap
