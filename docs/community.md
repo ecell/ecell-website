@@ -22,6 +22,7 @@
 - Yasuhiro Naito
 - Hitomi Sano
 - Naohiro Aota
+- Takeshi Sakurada
 
 # Social media
 
