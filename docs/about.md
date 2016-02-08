@@ -13,6 +13,7 @@ For additional E-Cell project news and events, please follow [@ecellproject](htt
 ## Research using E-Cell system
 
 Many publications are citing [Tomita et al. (1999)](http://bioinformatics.oxfordjournals.org/content/15/1/72.short)
+
 View [Full Listing at Google Scholar](https://scholar.google.co.jp/scholar?cites=12647933210797842846)
 
 # History

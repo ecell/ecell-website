@@ -1,6 +1,6 @@
-# Download E-Cell system 4.0.0
+# Download E-Cell System 4.0.0
 
-https://github.com/ecell/ecell4/releases
+[https://github.com/ecell/ecell4/releases](https://github.com/ecell/ecell4/releases)
 
 ## Release notes
 ### Features added
@@ -13,18 +13,19 @@ https://github.com/ecell/ecell4/releases
 ## License agreement
 
 This project is licensed under the terms of the GNU General Public License v2. See LICENSE for the project license.
-- Copyright (c) 2010-, RIKEN
+
+* Copyright (c) 2010-, RIKEN
 
 All rights reserved.
 
 # E-Cell4 documentation
 
-http://ecell4.readthedocs.org/
+[http://ecell4.readthedocs.org](http://ecell4.readthedocs.org)
 
 # Spatiocyte documentation
 
-http://spatiocyte.org/
+[http://spatiocyte.org](http://spatiocyte.org)
 
 # E-Cell3 documentation
 
-http://ecell3.readthedocs.org/en/latest/
+[http://ecell3.readthedocs.org](http://ecell3.readthedocs.org)
