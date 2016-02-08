@@ -2,9 +2,9 @@
 
 ## Leadership
 
-- Masaru Tomita (FILLME IMAGE)
-- Koichi Takahashi (FILLME IMAGE)
-- Kazunari Kaizu (FILLME IMAGE)
+- ![](http://www.gcoe-metabo.keio.ac.jp/member/tomita/img/ph.jpg) Masaru Tomita 
+- ![](http://www.qbic.riken.jp/japanese/research/outline/img/Takahashi200_2.jpg) Koichi Takahashi
+- Kazunari Kaizu
 
 ## Core developers
 
@@ -26,9 +26,8 @@
 
 # Social media
 
-- github (FILL ICON and LINK)
-- twitter (FILL ICON and LINK)
-- gitter (FILL ICON and LINK)
+- <img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="80" height="80" /> github [https://github.com/ecell](https://github.com/ecell)
+- <img src="https://g.twimg.com/Twitter_logo_blue.png" width="70" height="50" /> twitter [@ecellproject](https://twitter.com/ecellproject)
 
 # Conference
 
