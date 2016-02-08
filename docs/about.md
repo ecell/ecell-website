@@ -8,7 +8,7 @@ E-Cell System is a software platform for modeling, simulation and analysis of co
 
 Please see our extensive [collection of publications](http://ecell.github.io/publications/) that leverage E-Cell System.
 
-For additional E-Cell project news and events, please follow [@ecellproject][https://twitter.com/ecellproject] on Twitter.
+For additional E-Cell project news and events, please follow [@ecellproject](https://twitter.com/ecellproject) on Twitter.
 
 ## Research using E-Cell system
 
