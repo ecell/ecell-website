@@ -1,16 +1,19 @@
-# What is E-Cell system?
+# What is E-Cell System?
 
-FILLME
+E-Cell System is a software platform for modeling, simulation and analysis of complex, heterogeneous and multi-scale systems like the cell.
 
-# Who is using E-Cell system?
+# Who is using E-Cell System?
 
 ## Featured publications
 
-FILLME
+Please see our extensive [collection of publications](http://ecell.github.io/publications/) that leverage E-Cell System.
+
+For additional E-Cell project news and events, please follow [@ecellproject][https://twitter.com/ecellproject] on Twitter.
 
 ## Research using E-Cell system
 
-FILLME
+Many publications are citing [Tomita et al. (1999)](http://bioinformatics.oxfordjournals.org/content/15/1/72.short)
+View [Full Listing at Google Scholar](https://scholar.google.co.jp/scholar?cites=12647933210797842846)
 
 # History
 
