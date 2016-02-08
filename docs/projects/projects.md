@@ -1,21 +1,30 @@
 # Download E-Cell system 4.0.0
 
-FILLME link to github release files
+https://github.com/ecell/ecell4/releases
 
 ## Release notes
-
+### Features added
+- Spatial Gillespie simulator
+- Spatiocyte simulator
+- eGFRD simulator
+- Python-valid rule-based modeling
+- Jupyter Notebook inline visualization
 
 ## License agreement
 
+This project is licensed under the terms of the GNU General Public License v2. See LICENSE for the project license.
+- Copyright (c) 2010-, RIKEN
+
+All rights reserved.
 
 # E-Cell4 documentation
 
-link to ecell4.readthedocs.org
+http://ecell4.readthedocs.org/
 
 # Spatiocyte documentation
 
-link to spatiocyte.org
+http://spatiocyte.org/
 
 # E-Cell3 documentation
 
-link to ecell3.readthedocs.org
+http://ecell3.readthedocs.org/en/latest/
