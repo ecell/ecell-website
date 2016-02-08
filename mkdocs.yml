@@ -4,7 +4,6 @@ pages:
 - About: about.md
 - Projects:
     - 'Projects': 'projects/projects.md'
-    - 'Downloads': 'projects/downloads.md'
     - 'Models': 'projects/models.md'
 - Publications: publications.md
 - Community: community.md
