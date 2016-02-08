@@ -10,6 +10,7 @@
 
 - Kazunari Kaizu
 - Satya Arjunan
+- Masaki Watabe
 - Kozo Nishida
 - Yuki Sakamoto
 - Suguru Kato
@@ -18,6 +19,7 @@
  
 ## Past Developers, Directors, and Funding Agencies
 
+- Kazunari Iwamoto
 - Moriyoshi Koizumi
 - Yasuhiro Naito
 - Hitomi Sano
