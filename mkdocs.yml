@@ -7,4 +7,4 @@ pages:
     - 'Models': 'projects/models.md'
 - Publications: publications.md
 - Community: community.md
-theme: bootstrap
+theme: readthedocs
