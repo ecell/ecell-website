@@ -3,7 +3,8 @@
 [https://github.com/ecell/ecell4/releases](https://github.com/ecell/ecell4/releases)
 
 ## Release notes
-### Features added
+### 4.0.0 (released Feb 5, 2016)
+Features added
 - Spatial Gillespie simulator
 - Spatiocyte simulator
 - eGFRD simulator
