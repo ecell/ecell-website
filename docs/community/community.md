@@ -33,5 +33,5 @@
 
 # Conference
 
-- E-Cell sprint (FILLME)
-- E-Cell workshop (FILLME)
+- [E-Cell sprint](./sprint.md)
+- [E-Cell workshop](./workshop.md)

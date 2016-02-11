@@ -6,5 +6,8 @@ pages:
     - 'Projects': 'projects/projects.md'
     - 'Models': 'projects/models.md'
 - Publications: publications.md
-- Community: community.md
+- Community:
+    - 'Community': 'community/community.md'
+    - 'E-Cell sprint': 'community/sprint.md'
+    - 'E-Cell workshop': 'community/workshop.md'
 theme: readthedocs
