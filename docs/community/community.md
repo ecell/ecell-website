@@ -33,5 +33,4 @@
 
 # Conference
 
-- [E-Cell sprint](./sprint.md)
-- [E-Cell workshop](./workshop.md)
+- [E-Cell sprint and workshop](https://ecellja.wordpress.com/)
