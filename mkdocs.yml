@@ -8,6 +8,4 @@ pages:
 - Publications: publications.md
 - Community:
     - 'Community': 'community/community.md'
-    - 'E-Cell sprint': 'community/sprint.md'
-    - 'E-Cell workshop': 'community/workshop.md'
 theme: readthedocs
