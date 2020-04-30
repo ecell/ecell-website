@@ -46,4 +46,4 @@ Social media
 Conference
 =============
 
-- `E-Cell sprint and workshop <https://ecellja.wordpress.com/>`__
+- `E-Cell sprint and workshop <https://ecellja.wordpress.com/>`__ (in Japanese)
