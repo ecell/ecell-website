@@ -20,12 +20,14 @@ The E-Cell Project is open to anyone who shares the view with us that developmen
    about
 
 .. toctree::
-   :glob:
    :maxdepth: 1
    :hidden:
    :caption: projects
 
-   projects/*
+   projects/ecell4.md
+   projects/ecell3.md
+   projects/scopyon.md
+   projects/spatiocyte.md
 
 .. toctree::
    :maxdepth: 1
@@ -50,10 +52,3 @@ The E-Cell Project is made possible through the financial and institutional supp
 - .. image:: ./rikenlogo.jpg
 - .. image:: ./iablogo.jpg
 - .. image:: ./keiologo.jpg
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
