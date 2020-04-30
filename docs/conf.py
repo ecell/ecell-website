@@ -62,15 +62,4 @@ html_show_sourcelink = True
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-html_sidebars = {
-    '**': [
-        # 'logo.html',
-        # 'localtoc.html',
-        # 'globaltoc.html',
-        # 'relations.html',
-        # 'sourcelink.html',
-        'sidetoc.html',
-        'searchbox.html',
-        ]
-    }
-
+html_sidebars = {'**': ['util/sidetoc.html', 'util/searchbox.html']}
