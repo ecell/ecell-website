@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'ecell-website'
+project = 'E-Cell Project'
 copyright = '2020, Kazunari Kaizu'
 author = 'Kazunari Kaizu'
 
