@@ -14,23 +14,29 @@ The E-Cell Project is open to anyone who shares the view with us that developmen
 
 .. toctree::
    :maxdepth: 1
+   :hidden:
+   :caption: about
 
    about
 
 .. toctree::
    :glob:
    :maxdepth: 1
+   :hidden:
    :caption: projects
 
    projects/*
 
 .. toctree::
    :maxdepth: 1
+   :hidden:
+   :caption: publications
 
    publications
 
 .. toctree::
    :glob:
+   :hidden:
    :maxdepth: 1
    :caption: community
 
