@@ -27,8 +27,8 @@
 
 # Social media
 
-- <img src="octocat.png" width="100" /> [https://github.com/ecell](https://github.com/ecell)
-- <img src="twitter.png" width="100" /> [@ecellproject](https://twitter.com/ecellproject)
+- <img src="./octocat.png" width="100" /> [https://github.com/ecell](https://github.com/ecell)
+- <img src="./twitter.png" width="100" /> [@ecellproject](https://twitter.com/ecellproject)
 
 # Conference
 
