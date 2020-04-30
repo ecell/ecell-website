@@ -30,7 +30,7 @@ master_doc = 'index'
 # ones.
 extensions = [
     "recommonmark",
-    "sphinx-markdown-tables",
+    "sphinx_markdown_tables",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
