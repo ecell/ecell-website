@@ -21,8 +21,9 @@ project = 'ecell-website'
 copyright = '2020, Kazunari Kaizu'
 author = 'Kazunari Kaizu'
 
-
 # -- General configuration ---------------------------------------------------
+
+master_doc = 'index'
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
