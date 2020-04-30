@@ -1,2 +1,3 @@
 recommonmark
 sphinx-markdown-tables
+romnnn_sphinx_press_theme
