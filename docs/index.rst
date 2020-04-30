@@ -24,7 +24,7 @@ The E-Cell Project is open to anyone who shares the view with us that developmen
    :hidden:
    :caption: projects
 
-   http://e-cell.org/ecell4 <The E-Cell System version 4>
+   http://www.e-cell.org/ecell4/
    projects/ecell3.md
    projects/scopyon.md
    projects/spatiocyte.md
