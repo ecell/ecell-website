@@ -36,12 +36,12 @@ Social media
 ==============
 
 .. |octocat| image:: ./octocat.png
-   :width: 100px
+   :width: 60px
 .. |twitter| image:: ./twitter.png
-   :width: 100px
+   :width: 60px
 
-- |octocat| [https://github.com/ecell](https://github.com/ecell)
-- |twitter| [@ecellproject](https://twitter.com/ecellproject)
+- |octocat| `https://github.com/ecell <https://github.com/ecell>`__
+- |twitter| `@ecellproject <https://twitter.com/ecellproject>`__
 
 Conference
 =============
