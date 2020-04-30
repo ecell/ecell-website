@@ -26,8 +26,8 @@ The E-Cell Project is open to anyone who shares the view with us that developmen
 
    The E-Cell System version 4 <http://www.e-cell.org/ecell4/>
    projects/ecell3.md
-   projects/scopyon.md
-   projects/spatiocyte.md
+   Scopyon <https://github.com/ecell/scopyon>
+   Spatiocyte <http://spatiocyte.org>
 
 .. toctree::
    :maxdepth: 1
