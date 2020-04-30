@@ -1,3 +1,5 @@
+# Publications
+
 -   Shimo H, Arjunan SNV, Machiyama H, Nishino T, Suematsu M, Fujita H,
     Tomita M, Takahashi K: Particle Simulation of Oxidation Induced Band
     3 Clustering in Human Erythrocytes. *PLoS computational

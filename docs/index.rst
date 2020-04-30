@@ -17,9 +17,9 @@ The E-Cell Project is open to anyone who shares the view with us that developmen
    :maxdepth: 1
 
    about
-   projects
+   projects/*
    publications
-   community
+   community/*
 
 Support for the E-Cell Project
 ===============================
