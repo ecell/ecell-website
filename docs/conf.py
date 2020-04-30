@@ -69,7 +69,6 @@ html_sidebars = {
         # 'globaltoc.html',
         # 'relations.html',
         # 'sourcelink.html',
-        'navbar.html',
         'sidetoc.html',
         'searchbox.html',
         ]
