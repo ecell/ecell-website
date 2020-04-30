@@ -13,12 +13,27 @@ Some of the research foci of the Project include:
 The E-Cell Project is open to anyone who shares the view with us that development of cell simulation technology, and, even if such ultimate goal might not be within ten years of reach yet, solving various conceptual, computational and experimental problems that will continue to arise in the course of pursuing it, may have a multitude of eminent scientific, medical and engineering impacts on our society.
 
 .. toctree::
-   :glob:
    :maxdepth: 1
 
    about
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :caption: projects
+
    projects/*
+
+.. toctree::
+   :maxdepth: 1
+
    publications
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :caption: community
+
    community/*
 
 Support for the E-Cell Project
