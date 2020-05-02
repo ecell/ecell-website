@@ -53,8 +53,8 @@ pygments_style = None
 
 # import sphinx_rtd_theme
 # html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
-html_theme = "sphinx_rtd_theme"
-# html_theme = "press"
+# html_theme = "sphinx_rtd_theme"
+html_theme = "press"
 
 html_show_sourcelink = True
 
@@ -63,4 +63,4 @@ html_show_sourcelink = True
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-# html_sidebars = {'**': ['util/sidetoc.html']}
+html_sidebars = {'**': ['util/sidetoc.html']}
