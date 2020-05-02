@@ -2,7 +2,7 @@
 
 ## Documentation
 
-See [http://ecell3.readthedocs.org](http://ecell3.readthedocs.org).
+See [http://ecell3.readthedocs.org/](http://ecell3.readthedocs.org/).
 
 ## Models
 
