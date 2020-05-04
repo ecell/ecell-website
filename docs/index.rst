@@ -1,4 +1,5 @@
-# What is E-Cell project?
+What is E-Cell project?
+=========================
 
 The E-Cell Project develops general technologies and theoretical supports for computational biology with the grand aim to make precise whole cell simulation at the molecular level possible.
 
@@ -11,10 +12,44 @@ Some of the research foci of the Project include:
 
 The E-Cell Project is open to anyone who shares the view with us that development of cell simulation technology, and, even if such ultimate goal might not be within ten years of reach yet, solving various conceptual, computational and experimental problems that will continue to arise in the course of pursuing it, may have a multitude of eminent scientific, medical and engineering impacts on our society.
 
-## Support for the E-Cell Project
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: about
+
+   about
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: projects
+
+   projects/ecell4.md
+   projects/ecell3.md
+   projects/scopyon.md
+   projects/spatiocyte.md
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: publications
+
+   publications
+
+.. toctree::
+   :glob:
+   :hidden:
+   :maxdepth: 1
+   :caption: community
+
+   community/members.rst
+   community/community.rst
+
+Support for the E-Cell Project
+===============================
 
 The E-Cell Project is made possible through the financial and institutional support of the following institutions.
 
-- ![](./rikenlogo.jpg)
-- ![](./iablogo.jpg)
-- ![](./keiologo.jpg)
+- .. image:: ./rikenlogo.jpg
+- .. image:: ./iablogo.jpg
+- .. image:: ./keiologo.jpg
