@@ -5,8 +5,8 @@ Project Teams
 ----------------
 
 - Koichi Takahashi Lab. (Laboratory for Biologically Inspired Computing, RIKEN BDR)
-- Yasuhiro Naito Lab. (Keio Univ., SFC)
-- Masaru Tomita Lab. (Keio Univ., SFC)
+- Yasuhiro Naito Lab. (SFC, Keio Univ.)
+- Masaru Tomita Lab. (SFC, Keio Univ.)
 
 Organizations
 ---------------
