@@ -1,7 +1,7 @@
 Members
 =========
 
-Project Teams
+Laboratories
 ----------------
 
 - Koichi Takahashi Lab. (Laboratory for Biologically Inspired Computing, RIKEN BDR)
