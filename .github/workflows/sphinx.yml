@@ -17,4 +17,4 @@ jobs:
       - run: python -m pip install sphinx recommonmark sphinx_markdown_tables sphinx-press-theme
 
       - name: Build
-        run: sphinx-build -b html . builddir
+        run: cd sphinxsrc; sphinx-build -b html . builddir
