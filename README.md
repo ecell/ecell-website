@@ -1,2 +1,2 @@
 # ecell-website
-code repository for ecell.github.io
+The code repository for https://www.e-cell.org/
